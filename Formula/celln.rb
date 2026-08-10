@@ -2,8 +2,8 @@
 class Celln < Formula
   desc "Run agents in hardware-isolated cells with attested, revocable tools"
   homepage "https://github.com/sympozium-ai/celln"
-  url "https://github.com/sympozium-ai/celln/releases/download/v0.5.1/celln-x86_64-unknown-linux-musl.tar.gz"
-  sha256 "c473236e852fed3a6da885f0540e5be3a5084d83fcc4cb4be3cdb5f8fc387898"
+  url "https://github.com/sympozium-ai/celln/releases/download/v0.5.2/celln-x86_64-unknown-linux-musl.tar.gz"
+  sha256 "b77cb954612e6391603b8e5ea292721574e67e98932afec362b110cb8c5f3b8e"
   license "Apache-2.0"
 
   depends_on "cpio"
